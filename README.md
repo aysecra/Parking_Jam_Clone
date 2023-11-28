@@ -1,2 +1,2 @@
-# Parking_Jam_Clone
+# Parking Jam Clone
 Clone of Parking Jam Game
